@@ -19,7 +19,7 @@ Follow along
 
 -   Github repository <https://github.com/altonrus/2022-11-21-Open-research>
 
--   Slides in web browser <https://github.com/altonrus/2022-11-21-Open-research/blob/main/2022-11-21%20Open%20research.html>
+-   Slides in web browser <https://htmlpreview.github.io/?https://github.com/altonrus/2022-11-21-Open-research/blob/main/2022-11-21%20Open%20research.html#/title-slide>
 
 ## Reproducible
 
