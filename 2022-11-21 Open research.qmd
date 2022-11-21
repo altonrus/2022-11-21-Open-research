@@ -15,8 +15,13 @@ editor: visual
 
 -   Example
 
-## Reproducible
+Follow along
 
+-   Github repository <https://github.com/altonrus/2022-11-21-Open-research>
+
+-   Slides in web browser <https://github.com/altonrus/2022-11-21-Open-research/blob/main/2022-11-21%20Open%20research.html>
+
+## Reproducible
 
 Can be exactly redone, given same materials
 
@@ -213,7 +218,6 @@ Idea of Donald Knuth: Code snippets and 'natural language' (English) intersperse
 -   **5_manuscipt** .Rmd or .qmd manuscript
 :::
 :::
-
 
 ## .gitignore
 
