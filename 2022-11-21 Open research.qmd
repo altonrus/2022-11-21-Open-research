@@ -15,8 +15,13 @@ editor: visual
 
 -   Example
 
-## Reproducible
+Follow along
 
+-   Github repository <https://github.com/altonrus/2022-11-21-Open-research>
+
+-   Slides in web browser <https://htmlpreview.github.io/?https://github.com/altonrus/2022-11-21-Open-research/blob/main/2022-11-21%20Open%20research.html#/title-slide>
+
+## Reproducible
 
 Can be exactly redone, given same materials
 
@@ -111,6 +116,8 @@ Usually, not good reasons
 -   Mistakes might be found
 
 -   Can increase citations
+
+**Messy code \>\>\> No code!**
 
 ## "Data available on request"
 
@@ -213,7 +220,6 @@ Idea of Donald Knuth: Code snippets and 'natural language' (English) intersperse
 -   **5_manuscipt** .Rmd or .qmd manuscript
 :::
 :::
-
 
 ## .gitignore
 
@@ -348,7 +354,7 @@ fread("1_data/data.csv")
 :::
 :::
 
-## Citations: Zenodo → Bibtex → .Rmd
+## Citations: Zotero → Bibtex → .Rmd
 
 ::: columns
 ::: {.column width="40%"}
